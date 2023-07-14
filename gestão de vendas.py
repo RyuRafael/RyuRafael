@@ -2,7 +2,7 @@
 
 ## Vídeo de demonstração
 
-[![Vídeo de demonstração](https://img.youtube.com/vi/1B2xwEpqjg4/0.jpg)](https://youtu.be/1B2xwEpqjg4)pqjg4)
+https://youtu.be/BlbTA8EK67M
 
 lista_produtos = []
 relatorio_vendas = []
