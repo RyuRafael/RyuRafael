@@ -1,3 +1,4 @@
+
 lista_produtos = []
 relatorio_vendas = []
 
