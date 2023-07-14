@@ -1,4 +1,4 @@
-
+#rafael ribeiro rodrigues
 lista_produtos = []
 relatorio_vendas = []
 
