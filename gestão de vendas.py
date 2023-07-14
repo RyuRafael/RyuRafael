@@ -1,4 +1,9 @@
 #rafael ribeiro rodrigues
+
+## Vídeo de demonstração
+
+[![Vídeo de demonstração](https://img.youtube.com/vi/1B2xwEpqjg4/0.jpg)](https://youtu.be/1B2xwEpqjg4)pqjg4)
+
 lista_produtos = []
 relatorio_vendas = []
 
