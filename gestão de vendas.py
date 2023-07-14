@@ -2,6 +2,9 @@
 lista_produtos = []
 relatorio_vendas = []
 
+lista_produtos = []
+relatorio_vendas = []
+
 
 def ler_produtos():
     with open("produtos_cadastrados.txt", "r", encoding="utf-8") as produtos:
@@ -43,6 +46,9 @@ def relatorio_txt():
             relatorio_vendass.write("Quantidade: " + str(venda["quantidade"]) + "\n")
             relatorio_vendass.write("Valor Total: " + str(venda["valor_total"]) + "\n")
             relatorio_vendass.write("-------------------\n")
+    with open("relatorio_vendas.txt", "r", encoding="utf-8") as relatorio_vendas_leitura:
+        conteudo = relatorio_vendas_leitura.read()
+        print(conteudo)
 
 
 def editar(nome):
@@ -157,3 +163,4 @@ while True:
 
     else:
         print("Opção inválida!")
+
